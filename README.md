@@ -48,7 +48,8 @@
 <img width="1086" height="501" alt="image" src="https://github.com/user-attachments/assets/31547483-2f1b-473e-8052-4461c061f04a" />
 
 - 歷史紀錄查詢功能
-![Uploading image.png…]()
+<img width="1307" height="517" alt="image" src="https://github.com/user-attachments/assets/11a3cd11-15ad-49c0-a357-b8bb7f5d3296" />
+
 
 
  
