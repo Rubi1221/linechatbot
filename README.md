@@ -28,3 +28,28 @@
 <img width="865" height="350" alt="image" src="https://github.com/user-attachments/assets/5d527e7a-d523-4246-b812-62e075a3894b" />
 
 ---
+
+## 系統功能流程操作
+
+- 景點查詢功能
+  
+<img width="337" height="261" alt="image" src="https://github.com/user-attachments/assets/6ffce7d5-3bd9-4d22-a73d-a0d20add16d0" />
+
+<img width="255" height="403" alt="image" src="https://github.com/user-attachments/assets/924feeeb-1995-4045-acbb-1526cea4d3dc" />
+
+- 規劃行程功能
+  
+<img width="446" height="319" alt="image" src="https://github.com/user-attachments/assets/3e045c8e-db59-4503-bf69-39c5a6fb5fea" />
+<img width="288" height="455" alt="image" src="https://github.com/user-attachments/assets/029c7044-dae2-4340-8ac4-f36ac0584b7f" />
+<img width="398" height="499" alt="image" src="https://github.com/user-attachments/assets/de14847d-3822-4612-8e6a-0af336bc0c53" />
+
+- 景點照片辨識功能
+  
+<img width="431" height="315" alt="image" src="https://github.com/user-attachments/assets/023c21f0-7938-4e22-8d96-8244dfbeb320" />
+<img width="347" height="534" alt="image" src="https://github.com/user-attachments/assets/f5af8adf-ede7-4b17-88be-ae7030709016" />
+
+- 歷史紀錄查詢功能
+ <img width="865" height="391" alt="image" src="https://github.com/user-attachments/assets/2d7c04ec-a4ad-4b47-b578-fe2a205cc4af" />
+ 
+
+---
