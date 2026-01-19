@@ -39,9 +39,8 @@
 
 - 規劃行程功能
   
-<img width="542" height="216" alt="image" src="https://github.com/user-attachments/assets/a64275c9-6ab0-4498-bf63-8a74c7ea81e2" />
+<img width="1286" height="498" alt="image" src="https://github.com/user-attachments/assets/68736e5c-2fa3-417b-964a-c86e305bcd4c" />
 
-<img width="398" height="499" alt="image" src="https://github.com/user-attachments/assets/de14847d-3822-4612-8e6a-0af336bc0c53" />
 
 - 景點照片辨識功能
   
