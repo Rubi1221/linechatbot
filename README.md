@@ -45,11 +45,11 @@
 
 - 景點照片辨識功能
   
-<img width="431" height="315" alt="image" src="https://github.com/user-attachments/assets/023c21f0-7938-4e22-8d96-8244dfbeb320" />
-<img width="347" height="534" alt="image" src="https://github.com/user-attachments/assets/f5af8adf-ede7-4b17-88be-ae7030709016" />
+<img width="1086" height="501" alt="image" src="https://github.com/user-attachments/assets/31547483-2f1b-473e-8052-4461c061f04a" />
 
 - 歷史紀錄查詢功能
- <img width="865" height="391" alt="image" src="https://github.com/user-attachments/assets/2d7c04ec-a4ad-4b47-b578-fe2a205cc4af" />
+- <img width="1243" height="381" alt="image" src="https://github.com/user-attachments/assets/e4f97383-d411-408f-8021-c8fe4478a9e5" />
+
  
 
 ---
