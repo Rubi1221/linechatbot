@@ -33,9 +33,8 @@
 
 - 景點查詢功能
   
-<img width="337" height="261" alt="image" src="https://github.com/user-attachments/assets/6ffce7d5-3bd9-4d22-a73d-a0d20add16d0" />
+<img width="413" height="197" alt="image" src="https://github.com/user-attachments/assets/e53c429a-558e-47ea-a5ff-99aa80bbaf9d" />
 
-<img width="255" height="403" alt="image" src="https://github.com/user-attachments/assets/924feeeb-1995-4045-acbb-1526cea4d3dc" />
 
 - 規劃行程功能
   
