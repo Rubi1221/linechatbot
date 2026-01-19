@@ -33,13 +33,14 @@
 
 - 景點查詢功能
   
-<img width="413" height="197" alt="image" src="https://github.com/user-attachments/assets/e53c429a-558e-47ea-a5ff-99aa80bbaf9d" />
+<img width="475" height="227" alt="image" src="https://github.com/user-attachments/assets/d55767e5-212a-4c06-a988-427f24f3c815" />
+
 
 
 - 規劃行程功能
   
-<img width="446" height="319" alt="image" src="https://github.com/user-attachments/assets/3e045c8e-db59-4503-bf69-39c5a6fb5fea" />
-<img width="288" height="455" alt="image" src="https://github.com/user-attachments/assets/029c7044-dae2-4340-8ac4-f36ac0584b7f" />
+<img width="542" height="216" alt="image" src="https://github.com/user-attachments/assets/a64275c9-6ab0-4498-bf63-8a74c7ea81e2" />
+
 <img width="398" height="499" alt="image" src="https://github.com/user-attachments/assets/de14847d-3822-4612-8e6a-0af336bc0c53" />
 
 - 景點照片辨識功能
