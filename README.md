@@ -33,7 +33,8 @@
 
 - 景點查詢功能
   
-<img width="475" height="227" alt="image" src="https://github.com/user-attachments/assets/d55767e5-212a-4c06-a988-427f24f3c815" />
+<img width="1039" height="458" alt="image" src="https://github.com/user-attachments/assets/383cf21a-77d0-458d-90da-408c8876eed1" />
+
 
 
 
