@@ -25,5 +25,6 @@
   - Microsoft Azure Image Recognition API
   - OpenAI API（ChatGPT）
 - 資料庫：SQL Server
+<img width="865" height="350" alt="image" src="https://github.com/user-attachments/assets/5d527e7a-d523-4246-b812-62e075a3894b" />
 
 ---
